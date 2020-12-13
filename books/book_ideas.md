@@ -9,4 +9,3 @@
 - [x] RxSwift by tutorials
 - [x] Mastering git
 - [ ] Care and feeding of developers
-- [x] Ski on a mountain 
